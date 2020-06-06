@@ -1,0 +1,533 @@
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+  .site-nav-wrapper {
+
+    padding: 0 20px;
+
+  }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+  .site-nav-wrapper {
+
+    padding: 0;
+
+  }
+
+  .vertical-heading h2 {
+
+    font-size: 29px;
+
+  }
+
+  #team p {
+
+    text-align: justify;
+
+  }
+
+  #services p {
+
+    text-align: justify;
+
+  }
+
+  #services-tabs .tab-bg {
+
+    padding: 16px 30px;
+    min-height: 300px;
+
+  }
+
+  .service-tab p {
+
+    line-height: 18px;
+
+  }
+
+  #testimonials p {
+
+    text-align: justify;
+
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .site-nav-wrapper {
+
+    padding: 0;
+
+  }
+
+  .navbar {
+
+    padding: 20px;
+
+  }
+
+  #home-heading {
+
+    margin-top: 30px;
+
+  }
+
+  #home-heading h1 {
+
+    font-size: 41px;
+
+  }
+
+  #home-text p {
+
+    font-size: 13px;
+    margin-top: 30px;
+
+  }
+
+  .btn-general {
+
+    font-size: 10px;
+    padding: 8px 35px 8px 35px;
+
+  }
+
+  .vertical-heading h2 {
+
+    font-size: 29px;
+
+  }
+
+  #tech-statement h3 {
+
+    font-size: 20px;
+    line-height: 30px;
+
+  }
+
+  .r-tabs-accordion-title {
+
+    margin-bottom: 10px;
+    text-align: center;
+
+  }
+
+  .r-tabs-accordion-title a {
+
+    color: #212226;
+    font-family: "Raleway", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+
+  }
+
+  .r-tabs-accordion-title.r-tabs-state-active a {
+
+  border-bottom: 3px solid #F4C613;
+  color: #F4C613;
+  font-weight: 700;
+  padding-bottom: 5px;
+  transition: border-color 300ms linear;
+  -webkit-transition: border-color 300ms linear;
+  -moz-transition: border-color 300ms linear;
+  -ms-transition: border-color 300ms linear;
+  -o-transition: border-color 300ms linear;
+
+  }
+
+  .pricing-table .price h2 {
+
+    font-size: 35px;
+    margin: 0 0 0 6px;
+
+  }
+
+  .white-nav-top #mobile-nav-open-btn {
+
+    top: 20px;
+
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  .navbar {
+
+    padding: 20px ;
+
+  }
+
+  #home-heading h1 {
+
+    font-size: 22px;
+
+  }
+
+  #home-text p {
+
+    font-size: 13px;
+    line-height: 18px;
+    margin: 8px 2px 30px 2px;
+
+  }
+
+  .btn-general {
+
+    font-size: 10px;
+    padding: 8px 25px 6px 25px;
+
+  }
+
+  .content-box-lg {
+
+    padding: 90px 0;
+
+  }
+
+  .vertical-heading {
+
+  text-align: center;
+
+  }
+
+  .vertical-heading h5 {
+
+    display: block;
+    margin-bottom: 15px;
+    position: static;
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    
+  }  
+
+  .vertical-heading h2 {
+
+    font-size: 29px;
+    line-height: normal;
+    margin: 0;
+
+  }
+
+  #about-left {
+
+    margin-bottom: 50px;
+
+  }
+
+  .container-box-md {
+
+    padding: 80px 0;
+
+  }
+
+  .about-item {
+
+    margin-bottom: 35px;
+    padding: 55px 30px;
+
+  }
+
+  .about-item i {
+
+    font-size: 30px;
+
+  }
+
+  .about-item h3 {
+
+    font-size: 18px;
+
+  }
+
+  #tech-statement h3 {
+
+    font-size: 20px;
+    line-height: 30px;
+
+  }
+
+  .horizontal-heading {
+
+    margin-bottom: 40px;
+
+  }
+
+  .horizontal-heading h2 {
+
+    font-size: 30px;
+
+  }
+
+  #services-01 img {
+
+    margin: 35px 0;
+
+  }
+
+  .service,
+  .service .icon {
+
+    text-align: center;
+
+  }
+
+  .service h4 {
+
+    font-size: 18px;
+
+  }
+
+  .r-tabs-accordion-title {
+
+    margin-bottom: 10px;
+    text-align: center;
+
+  }
+
+  .r-tabs-accordion-title a {
+
+    color: #212226;
+    font-family: "Raleway", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+
+  }
+
+  .r-tabs-accordion-title.r-tabs-state-active a {
+
+  border-bottom: 3px solid #F4C613;
+  color: #F4C613;
+  font-weight: 700;
+  padding-bottom: 5px;
+  transition: border-color 300ms linear;
+  -webkit-transition: border-color 300ms linear;
+  -moz-transition: border-color 300ms linear;
+  -ms-transition: border-color 300ms linear;
+  -o-transition: border-color 300ms linear;
+
+  }
+
+  #services-tabs .tab-bg {
+
+    padding: 40px 30px;
+    text-align: center;
+
+  }
+
+  #services-tabs h2 {
+
+    font-size: 40px;
+
+  }
+
+  #services-tabs h3 {
+
+    font-size: 28px;
+
+  }
+
+  #portfolio {
+
+    padding-bottom: 0;
+
+  }
+
+  #isotope-filters button {
+
+    padding-right: 15px;
+
+  }
+
+  #testimonials {
+
+    padding-top: 45px;
+
+  }
+
+  #testimonials .vertical-heading {
+
+    padding: 0;
+
+  }
+
+  #testimonial-slider {
+
+    top: 0;
+
+  }
+
+  .testimonial row {
+
+    margin: 0;
+
+  }
+
+  .testimonial h3 {
+
+    font-size: 20px;
+
+  }
+
+  .testimonial .starts {
+
+    font-size: 16px;
+
+  }
+
+  .author img {
+
+    width: 80px !important;
+
+  }
+
+  .pricing-table {
+
+    margin-bottom: 30px;
+
+  }
+
+  .pricing-table .price h2 {
+
+    font-size: 28px;
+    margin-left: 16px;
+
+  }
+
+  .stats-item {
+
+    margin-bottom: 20px;
+    padding: 28px 5px;
+
+  }
+
+  .stats-item i {
+
+    font-size: 30px;
+
+  }
+
+  .stats-item h3 {
+
+    font-size:  24px;
+
+  }
+
+  #blog-left {
+
+    text-align: center;
+    margin-bottom: 30px;
+
+  }
+
+  .blog-post {
+
+    margin-bottom: 25px;
+
+  }
+
+  .navbar {
+
+    padding: 20px 0;
+
+  }
+
+  .site-nav-wrapper,
+  .white-nav-top {
+
+    padding: 5px;
+
+  }
+
+  #mobile-nav-open-btn {
+
+    display: block;
+
+  }
+
+}
+
+@media (max-width: 487px) {
+
+  #home-heading h1 {
+
+    font-size: 18px;
+
+  }
+
+  #home-text p {
+
+    font-size: 11px;
+    line-height: 16px;
+    margin: 8px 10px 25px 10px;
+
+  }
+
+  .vertical-heading h2 {
+
+    font-size: 22px;
+
+  }
+
+  #team .team-left p {
+
+    text-align: justify;
+
+  }
+
+  .team-member-overlay p {
+
+    text-align: center;
+
+  }
+
+
+  .testimonial p {
+
+    text-align: justify;
+
+  }
+
+
+}
+
+@media (max-width: 320px) {
+
+  .testimonial h3 {
+
+    font-size: 14px;
+    line-height: 16px;
+
+  }
+
+  .testimonial .stars {
+
+    font-size: 14px;
+
+  }
+
+  #contact div#offices .office-details li:nth-child(1) i {
+
+    margin: 0 10px 0 10px;
+
+  }
+
+  #contact div#offices .office-details li:nth-child(3) i {
+
+    margin: 0 0 0 2px;
+
+  }
+
+}
